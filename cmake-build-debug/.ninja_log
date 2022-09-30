@@ -1,0 +1,13 @@
+# ninja log v5
+440	474	1664555393911013096	CasinoGuessingGame	cb7087fd014fe43e
+2	440	1664555393875125179	CMakeFiles/CasinoGuessingGame.dir/main.cpp.o	9a55bb6ac04a9bd7
+2	431	1664555486439458725	CMakeFiles/CasinoGuessingGame.dir/main.cpp.o	9a55bb6ac04a9bd7
+431	461	1664555486471911076	CasinoGuessingGame	cb7087fd014fe43e
+2	647	1664556009390416403	CMakeFiles/CasinoGuessingGame.dir/main.cpp.o	9a55bb6ac04a9bd7
+647	695	1664556009441195792	CasinoGuessingGame	cb7087fd014fe43e
+1	421	1664556091312066116	CMakeFiles/CasinoGuessingGame.dir/main.cpp.o	9a55bb6ac04a9bd7
+421	449	1664556091341940646	CasinoGuessingGame	cb7087fd014fe43e
+2	426	1664556407069741679	CMakeFiles/CasinoGuessingGame.dir/main.cpp.o	9a55bb6ac04a9bd7
+427	464	1664556407109139159	CasinoGuessingGame	cb7087fd014fe43e
+2	429	1664556684269599023	CMakeFiles/CasinoGuessingGame.dir/main.cpp.o	9a55bb6ac04a9bd7
+429	464	1664556684306146675	CasinoGuessingGame	cb7087fd014fe43e
